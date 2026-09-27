@@ -92,6 +92,6 @@ the client is constructed. A Content Server account sees no more than it sees in
 the web UI, so `RemovePublicAccess` can only remove permissions the signed-in
 account could remove by hand.
 
-## Licence and attribution
+## Licence
 
-Author: David M. Anderson. Licence terms are in `anderix-lib/license.txt`.
+Licence terms are in `anderix-lib/license.txt`.
